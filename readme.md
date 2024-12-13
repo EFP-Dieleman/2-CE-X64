@@ -1,56 +1,48 @@
-# Module : Programmation Web : Frontend (PWF)
 
-## Description du module
-Le module **Programmation Web : Frontend (PWF)**, d'une durée de 44 heures en 2e année, vise à introduire les concepts fondamentaux de la programmation des applications web. Ce module permettra aux apprenants de développer des compétences essentielles pour améliorer l'ergonomie et l'interface des sites web, tout en découvrant les principales librairies et frameworks utilisés dans l'industrie.
+# Activités et Compétences : UX/UI Designer
 
-## Objectifs de formation
-Avec une autonomie étendue et dans des situations imprévisibles, les objectifs de ce module sont :
-- **Connaître les concepts de programmation des applications web** ayant un impact sur l'ergonomie et l'interface d’un site web.
-- **Comprendre les différences** entre les librairies et frameworks les plus courants.
-- **S’initier à la programmation** : logique de programmation, concepts de base de la programmation procédurale, et outils associés.
-
-## Contenus associés
-Les contenus suivants serviront de base pour la construction des cours :
-1. **Introduction aux concepts de la programmation :**
-   - Niveaux de langages (bas niveau, haut niveau).
-   - Langages couramment utilisés dans le développement web (PHP, JavaScript, Java, Python, Ruby, etc.) : domaines d'application, avantages et inconvénients.
-   - Logique de programmation et syntaxe commune : 
-     - Variables.
-     - Constantes.
-     - Structures de contrôle.
-     - Commentaires.
-     - Tableaux (arrays).
-     - Opérateurs.
-
-2. **Programmation procédurale de base en JavaScript :**
-   - Utilisations de JavaScript.
-   - Logique de programmation et syntaxe.
-   - Intégration avec une base de données.
-   - Autres paradigmes (orienté objet, fonctionnel, etc.) : forces, faiblesses et applications.
-
-3. **Introduction aux librairies et frameworks JavaScript :**
-   - Découverte de jQuery, Angular, Vue, React, etc.
-   - Leur impact sur l’ergonomie et les interfaces des sites web.
-
-## Compétences à acquérir
-### Savoirs :
-- Les niveaux de langages de programmation et leurs domaines d'application.
-- Logique de programmation et syntaxe commune entre les langages.
-- Bonnes pratiques en matière de sécurité.
-- Connexion et utilisation d'une base de données.
-- Différences entre les librairies et frameworks populaires.
-
-### Savoir-faire :
-- Transposer les connaissances des concepts et algorithmes dans un langage de programmation.
-- Exploiter la logique et la syntaxe du langage pour résoudre des problèmes.
-- Comprendre et utiliser les notions de sécurité.
-- Maîtriser l'utilisation de librairies et frameworks pour améliorer l’ergonomie.
-
-## Évaluations
-L'évaluation des apprenants se fera à travers :
-- Des exercices pratiques journaliers.
-- Un examen final pour valider les acquis.
+## Liste des Activités
+En tant qu'UX/UI Designer, les activités principales sont :
+1. **Collaborer et communiquer comme UX/UI Designer**
+2. **Accompagner la démarche UX/UI**
+3. **Créer les éléments et les supports nécessaires**
+4. **Gérer des projets**
+5. **Créer sa propre activité professionnelle et en maîtriser les aspects de gestion**
+6. **Comprendre et exploiter les connaissances de base en anglais**
 
 ---
 
-Ce module est conçu pour s'inscrire après quelques séances des modules DSP et EXP, afin de garantir une progression pédagogique cohérente et efficace.
+## Compétences Associées
+
+### **1. Collaborer et communiquer comme UX/UI Designer**
+- Pouvoir collaborer efficacement en tant qu’UX/UI Designer.
+- Exploiter les logiciels courants (collaboration, design graphique, etc.).
+- Utiliser les concepts et la terminologie métier pour comprendre et se faire comprendre.
+
+### **2. Accompagner la démarche UX/UI**
+- Identifier les besoins des utilisateurs.
+- Exploiter les principes et outils de co-conception et d’animation de projets.
+- Comprendre et adapter au contexte les bases théoriques du métier (architecture de l’information, parcours utilisateur, accessibilité, etc.).
+- Activer sa curiosité et faire preuve d’ouverture d'esprit.
+- Organiser une formation continue (veille technologique).
+
+### **3. Créer les éléments et les supports nécessaires**
+- Exploiter de façon autonome les fonctionnalités des logiciels de traitement d’image pour concevoir des supports.
+- Réaliser des supports lo-fi et hi-fi (sketches, wireframes, mockups, prototypes, etc.).
+- Concevoir des interfaces web ergonomiques.
+
+### **4. Gérer des projets**
+- Articuler l'ensemble des compétences nécessaires pour concrétiser des projets d’UX/UI design.
+- Appliquer et adapter, selon le contexte, les étapes de réalisation d'une demande.
+
+### **5. Créer sa propre activité professionnelle et en maîtriser les aspects de gestion**
+- Entreprendre.
+- Gérer les aspects comptables, financiers et fiscaux.
+- Gérer les aspects commerciaux.
+- Comprendre les éléments essentiels de la législation.
+
+### **6. Comprendre et exploiter les connaissances de base en anglais**
+- Maîtriser la structure et le vocabulaire de base de l’anglais.
+- Comprendre un message écrit et oral.
+- Documenter et commenter ses activités.
+- Analyser des textes d’informations générales et techniques liés au métier.
