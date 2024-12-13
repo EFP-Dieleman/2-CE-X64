@@ -19,9 +19,40 @@ Cette fonction génère une table de multiplication pour un multiplicateur donn�
 - **`multiplicateur`** : Le nombre pour lequel la table de multiplication sera créée (par exemple, 7).
 - **`limite`** : Le nombre maximum de lignes à afficher (par défaut : 10).
 
+### Code de la Fonction :
+```javascript
+function ecriretableMultiplication(multiplicateur, limite = 10) {
+  let prefix = "&nbsp;";
+  for (let i = 1; i <= limite; ++i) {
+    if (i >= 10) {
+      prefix = "";
+    }
+    document.write(`${prefix}${i} x ${multiplicateur} = ${i * multiplicateur}`);
+    document.write("<br>");
+  }
+}
+```
 
-### Affichage :
+### Explications :
+1. **Formatage des nombres** :
+   - Le préfixe (`&nbsp;`) est utilisé pour aligner les résultats lorsque les indices (par exemple, 1, 2, 3) ont une longueur différente.
+   - Pour les indices à deux chiffres, le préfixe est supprimé.
+
+2. **Affichage** :
    - La méthode `document.write` est utilisée pour écrire directement dans la page HTML.
+   - Les résultats sont affichés ligne par ligne à l'aide de `<br>`.
+
+---
+
+### Générer Plusieurs Tables de Multiplication
+Pour afficher plusieurs tables de multiplication (par exemple, de 1 à 9), on utilise une boucle :
+```javascript
+for (let i = 1; i <= 9; ++i) {
+  document.write("<div><strong>" + i + "</strong><br>");
+  ecriretableMultiplication(i, 14);
+  document.write("</div>");
+}
+```
 
 ### Détails :
 1. **La Boucle** :
@@ -31,7 +62,6 @@ Cette fonction génère une table de multiplication pour un multiplicateur donn�
 2. **Structuration des Tables** :
    - Les tables sont encapsulées dans des balises `<div>`.
    - Le titre de la table (par exemple, "1", "2", ...) est mis en gras grâce à `<strong>`.
-   - Utilisation du CSS pour permettre le placement des tables en colonnes
 
 ---
 
