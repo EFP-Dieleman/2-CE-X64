@@ -56,15 +56,6 @@ Le Développeur Front-End est bien plus qu’un simple codeur. Vous jouez un rô
 - Créer des expériences utilisateur uniques.
 - Faire le lien entre le design et la technique.
 
----
-
-## 📖 Envie d’en savoir plus ?
-Découvrez nos ressources :
-- [Consultez nos offres d’emploi dans le Digital et l’IT](https://www.clementine.jobs)
-- [Explorez nos articles sur l’actualité des métiers du web](https://www.clementine.jobs)
-
----
-
 **Clémentine - Cabinet de Recrutement Digital & IT**  
 65, rue de Turbigo, F-75003 Paris  
 Tél : +33 1 78 09 52 00  
