@@ -3,6 +3,8 @@
 ## Description du module
 Le module **Programmation Web : Frontend (PWF)**, d'une durée de 44 heures en 2e année, vise à introduire les concepts fondamentaux de la programmation des applications web. Ce module permettra aux apprenants de développer des compétences essentielles pour améliorer l'ergonomie et l'interface des sites web, tout en découvrant les principales librairies et frameworks utilisés dans l'industrie.
 
+Consultez la fiche métier pour plus d'information sur le rôle de [Développeur Front-End](frontend_dev.md).
+
 ## Objectifs de formation
 Avec une autonomie étendue et dans des situations imprévisibles, les objectifs de ce module sont :
 - **Connaître les concepts de programmation des applications web** ayant un impact sur l'ergonomie et l'interface d’un site web.
