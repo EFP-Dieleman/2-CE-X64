@@ -43,8 +43,11 @@ Une interface web interactive qui permet à l'utilisateur de jouer au jeu de dev
 ---
 
 ## Contraintes Techniques
+- Les point 1, 2 et 3 font chacun l'objet d'un commit séparé.
+- Utilisez des noms de variables et de fonctions significatifs.
 - Utilisez uniquement HTML, CSS et JavaScript (sans frameworks).
-- Assurez-vous que l'application est responsive et fonctionne sur différentes tailles d'écran.
+- Bonus: assurez-vous que l'application est responsive et fonctionne sur différentes tailles d'écran.
+
 
 ---
 
