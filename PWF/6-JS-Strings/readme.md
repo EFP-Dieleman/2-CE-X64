@@ -14,8 +14,7 @@ Les ordinateurs étant basés sur un système binaire (0 et 1), ils ne manipulen
 - **ISO-8859-1 (Latin-1, 1987)** : Une extension à 8 bits permettant 256 caractères pour inclure des accents et symboles européens.
 - **Unicode (1991 - aujourd’hui)** : Un standard universel utilisant plusieurs octets pour représenter plus de 140 000 caractères couvrant presque toutes les langues du monde.
 
-Dans JavaScript, les chaînes de caractères sont encodées en UTF-16, ce qui signifie que chaque caractère est stocké sur 16 bits (2 octets). Certains caractères spéciaux ou emojis nécessitent 4 octets.
-
+Dans JavaScript, les chaînes de caractères sont encodées en UTF-16, ce qui signifie que chaque caractère est stocké sur 16 bits (2 octets). Certains caractères spéciaux ou [emojis nécessitent 4 octets](javascript_and_utf.md)
 ### 2. Les Chaînes de Caractères en JavaScript
 
 Une chaîne de caractères en JavaScript est un type de donnée primitif utilisé pour représenter du texte. Les chaînes peuvent être manipulées à l’aide de plusieurs méthodes intégrées. Cependant, pour renforcer votre compréhension, nous limiterons l’usage de ces méthodes aux suivantes :
