@@ -6,7 +6,17 @@ Ce cours a pour but de vous familiariser avec la manipulation des chaînes en Ja
 
 ## Concepts Clés
 
-### 1. Les Chaînes de Caractères en JavaScript
+### 1. Représentation Binaire des Caractères
+
+Les ordinateurs étant basés sur un système binaire (0 et 1), ils ne manipulent pas directement des lettres ou des symboles. Pour représenter les caractères, plusieurs standards ont été développés au fil du temps :
+
+- **ASCII (1963)** : Initialement limité à 7 bits, il pouvait représenter 128 caractères (lettres anglaises, chiffres, symboles de ponctuation, et caractères de contrôle).
+- **ISO-8859-1 (Latin-1, 1987)** : Une extension à 8 bits permettant 256 caractères pour inclure des accents et symboles européens.
+- **Unicode (1991 - aujourd’hui)** : Un standard universel utilisant plusieurs octets pour représenter plus de 140 000 caractères couvrant presque toutes les langues du monde.
+
+Dans JavaScript, les chaînes de caractères sont encodées en UTF-16, ce qui signifie que chaque caractère est stocké sur 16 bits (2 octets). Certains caractères spéciaux ou emojis nécessitent 4 octets.
+
+### 2. Les Chaînes de Caractères en JavaScript
 
 Une chaîne de caractères en JavaScript est un type de donnée primitif utilisé pour représenter du texte. Les chaînes peuvent être manipulées à l’aide de plusieurs méthodes intégrées. Cependant, pour renforcer votre compréhension, nous limiterons l’usage de ces méthodes aux suivantes :
 
@@ -14,7 +24,7 @@ Une chaîne de caractères en JavaScript est un type de donnée primitif utilis�
 - **`length`** : Retourne la longueur de la chaîne.
 - **`charCodeAt(index)`** : Retourne le code Unicode du caractère à une position donnée.
 
-### 2. Méthodes Courantes des Chaînes en JavaScript
+### 3. Méthodes Courantes des Chaînes en JavaScript
 
 Bien que nous restreignons l’utilisation des méthodes natives dans ces exercices, il est important de connaître celles qui sont généralement utilisées pour la manipulation de chaînes :
 
@@ -64,14 +74,14 @@ Bien que nous restreignons l’utilisation des méthodes natives dans ces exerci
   console.log(phrase.includes("JavaScript")); // true
   ```
 
-### 3. Utilisation des Boucles
+### 4. Utilisation des Boucles
 
 Deux types de boucles sont couramment utilisées pour parcourir une chaîne de caractères :
 
 - **La boucle `while`** : Elle est utile lorsque le nombre d’itérations n’est pas connu à l’avance et permet de parcourir une chaîne jusqu’à une condition spécifique.
 - **La boucle `for`** : Elle est souvent privilégiée pour des parcours déterminés.
 
-### 4. Les Conditions `if`
+### 5. Les Conditions `if`
 
 La structure conditionnelle `if` vous permet d’exécuter du code seulement si une certaine condition est remplie. Par exemple, pour vérifier si un caractère est une voyelle, on peut utiliser :
 
