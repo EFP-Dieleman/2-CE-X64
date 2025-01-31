@@ -76,7 +76,7 @@ Deux types de boucles sont couramment utilisées pour parcourir une chaîne de c
 La structure conditionnelle `if` vous permet d’exécuter du code seulement si une certaine condition est remplie. Par exemple, pour vérifier si un caractère est une voyelle, on peut utiliser :
 
 ```javascript
-if (char === 'a' || char === 'e' || char === 'i' || char === 'o' || char === 'u') {
+if (char === 'a' || char === 'e' || char === 'i' || char === 'u' || char === 'o') {
     // Faire quelque chose
 }
 ```
